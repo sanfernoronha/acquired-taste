@@ -1,0 +1,16 @@
+{
+  "name": "acquired-taste",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^10.3.4",
+    "gridsome": "^0.7.0",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.15"
+  }
+}
