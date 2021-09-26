@@ -12,6 +12,7 @@ if (process.env.NODE_ENV === "production")
 
 module.exports = {
   siteName: "acquired-taste",
+  siteDescription: "A simple web app for music genre classification",
   plugins: [],
   css: {
     loaderOptions: {

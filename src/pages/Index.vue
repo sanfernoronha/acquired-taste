@@ -34,7 +34,7 @@
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image
-          src="~/music.svg"
+          src="../../static/music.svg"
           width="300"
           alt="hero"
           class="mx-auto sm:mx-0"

@@ -7,15 +7,14 @@
     "build": "gridsome build"
   },
   "dependencies": {
-    "autoprefixer": "^10.3.4",
     "firebase": "^9.0.2",
     "gridsome": "^0.7.0",
-    "postcss": "^8.3.6",
-    "tailwindcss": "^2.2.15",
-    "vue-audio-visual": "^2.3.0",
     "vue-scrollto": "^2.20.0"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.3"
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^9.8.7",
+    "postcss": "^7.0.38",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.14"
   }
 }
