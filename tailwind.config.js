@@ -48,7 +48,11 @@ module.exports = {
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      backgroundColor: ["active"],
+      animation: ["motion-safe"],
+      opacity: ["disabled"],
+    },
   },
   plugins: [],
 };
